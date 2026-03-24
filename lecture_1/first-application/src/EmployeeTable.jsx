@@ -9,7 +9,6 @@ export const EmployeeTable = () => {
 				<td>{clovek.vek}</td>
 				<td>
 					{
-						// Hledani jednotky timto zpusobem neni optimalni. Dalo by se zlepsit
 						organizacniJednotky.find((jednotka) => jednotka.id === clovek.organizacniJednotkaId).nazev
 					}
 				</td>
