@@ -1,0 +1,6 @@
+.column {
+	display: flex;
+	flex-direction: column;
+	border: 10px solid red;
+	margin-bottom: 20px;
+}
