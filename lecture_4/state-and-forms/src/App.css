@@ -1,0 +1,15 @@
+.row {
+	display: flex;
+	gap: 10px;
+	justify-content: center;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	align-items: center;
+	justify-content: center;
+	border-bottom: 1px solid lightgrey;
+	padding: 16px;
+}
