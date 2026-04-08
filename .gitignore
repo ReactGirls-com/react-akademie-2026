@@ -211,4 +211,6 @@ dist
 .history
 .ionide
 
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/emacs,node,visualstudiocode
